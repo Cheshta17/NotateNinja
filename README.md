@@ -4,3 +4,6 @@ Welcome to the our personalised Note-Making App! This project is designed to pro
 Key Features:
 1) Responsive Design
 2) Note Creation and Organization
+
+
+<img width="628" alt="image" src="https://github.com/user-attachments/assets/940a5a7a-c9b1-464e-a21f-c2f6f9217027" />
